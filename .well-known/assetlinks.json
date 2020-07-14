@@ -1,1 +1,9 @@
-ttt
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.wildpark.wpworks",
+    "sha256_cert_fingerprints":
+    ["52:86:E8:11:8D:DF:2A:A1:34:7E:76:F3:24:C6:76:7A:80:2E:72:E2:99:4B:16:10:83:DE:C3:F4:1A:01:5E:63"]
+  }
+}]
